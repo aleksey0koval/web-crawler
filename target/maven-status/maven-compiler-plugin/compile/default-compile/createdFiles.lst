@@ -1,0 +1,7 @@
+web\crawler\model\SearchDto.class
+web\crawler\model\ResultDto.class
+web\crawler\service\SearchProcessor.class
+web\crawler\servlet\SearchServlet.class
+web\crawler\service\HttpLoader.class
+web\crawler\model\ResultItemDto.class
+web\crawler\servlet\SearchParamsBinder.class
